@@ -5,7 +5,7 @@ The following Topics & Projects are done.
 
 # ARTIFICIAL INTELLIGENCE
 1. How to create basic AI application (Chat bot using DialogFlow)
-2. Revision - Basics of python Programming for AI.
+2. Revision - Basics of Python Programming for AI.
 
 # COMPUTER VISION
 
