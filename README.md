@@ -1,7 +1,7 @@
 # Artificial Intelligence using Python - 30 Days Internship
 This Repository contains Projects & Assignments done as a part of my AI Internship at Pantech Solutions.
 
-The following Topics & Projects are done.
+The following Topics & Projects are done and learned.
 
 # ARTIFICIAL INTELLIGENCE
 1. How to create basic AI application (Chat bot using DialogFlow)
@@ -46,4 +46,29 @@ The following Topics & Projects are done.
 # DEPLOYING AI IN HARDWARE
 
 29. Cloud-based AI, Object recognition using Amazon Web Service (AWS) & Imagga
-30. Deploying AI application in Raspberry Pi with Neural Compute stick & Nvidia Jetson Nano
+30. Deploying AI application in Raspberry Pi with Neural Compute stick & Nvidia Jetson Nano -- Theory
+
+# Libraries used:
+
+I have used various Packages for Projects. View them import statements. 
+
+Most used libraries are:
+
+🐍 OpenCV
+
+🐍 Dlib
+
+🐍 Tensorflow
+
+🐍 Keras
+
+🐍 Pytorch
+
+🐍 imutils
+
+🐍 facial_emotion_recognition, etc.
+
+# Depedencies:
+ I have used various technologies in projects.
+ 
+ For Python, I have used open source distribution Anaconda 🐍. Libraies are installed from conda & pip.
