@@ -2,4 +2,4 @@
 
 Create a model file using Training.
 
-A Dataset with Train & Test Folders is needed to run the program.
+A Dataset (any  language) with Train (A folder for every character with minimum 10 images) & Test Folders is needed to run the program.
