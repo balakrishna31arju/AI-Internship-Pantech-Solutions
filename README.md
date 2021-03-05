@@ -50,7 +50,7 @@ The following Topics & Projects are done and learned.
 
 # Libraries used:
 
-I have used various Packages for Projects. View them import statements. 
+I have used various Packages for Projects. View them in respective projects - import statements. 
 
 Most used libraries are:
 
